@@ -1,3 +1,4 @@
 !!!WARRNING!!!
 
 GitSmash commits this change!
+Now we will smash twice in a row!
