@@ -1,4 +1,9 @@
 !!!WARRNING!!!
 
 GitSmash commits this change!
+<<<<<<< HEAD
 Now we will smash twice in a row!
+=======
+
+Git just got smashed
+>>>>>>> bfa717508d37a1dc3999811e90ee937b24c2724f
