@@ -2,8 +2,8 @@
 
 GitSmash commits this change!
 <<<<<<< HEAD
-Now we will smash twice in a row!
+And Now we conflict!
 =======
 
-Git just got smashed
+Maybe we can get a conflict?
 >>>>>>> bfa717508d37a1dc3999811e90ee937b24c2724f
