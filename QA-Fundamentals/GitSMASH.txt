@@ -1,3 +1,5 @@
 !!!WARRNING!!!
 
 GitSmash commits this change!
+
+Git just got smashed
